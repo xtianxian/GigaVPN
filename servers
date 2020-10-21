@@ -1,10 +1,10 @@
 [
 	{
 	"id":"1",
-	"config":"vmess://ewogICJ2IjogIjIiLAogICJwcyI6ICJIb25nX0tvbmdfR2lnYVN0b3JpZXMiLAogICJhZGQiOiAidHdpdHRlci5jb20uaGsueHRpYW54aWFuLmNvbSIsCiAgInBvcnQiOiA4MCwKICAiaWQiOiAiYmY2YjVhZmMtMjVkZS00NGZhLWVhODQtZDQ1YTA1YmE0NWFlIiwKICAiYWlkIjogNjQsCiAgIm5ldCI6ICJ3cyIsCiAgInR5cGUiOiAibm9uZSIsCiAgImhvc3QiOiAiIiwKICAicGF0aCI6ICIvIiwKICAidGxzIjogIm5vbmUiCn0=",
+	"config":"vmess://ewogICJ2IjogIjIiLAogICJwcyI6ICJIb25nX0tvbmdfR2lnYVN0b3JpZXMiLAogICJhZGQiOiAidHdpdHRlci5jb20uaGsueHRpYW54aWFuLmNvbSIsCiAgInBvcnQiOiA4MCwKICAiaWQiOiAiYmY2YjVhZmMtMjVkZS00NGZhLWVhODQtZDQ1YTA1YmE0NWFlIiwKICAiYWlkIjogNjQsCiAgIm5ldCI6ICJ3cyIsCiAgInR5cGUiOiAibm9uZSIsCiAgImhvc3QiOiAiIiwKICAicGF0aCI6ICIvIiwKICAidGxzIjogIm5vbmUiCn0="
 	},
 	{
 	"id":"2",
-	"config":"",
+	"config":""
 	}
 ]
